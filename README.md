@@ -13,3 +13,7 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
 - An audit of their big data practice 
 - Recommendations for a successful IPO 
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
+
+Dashboard:
+![Accenture dashboard snapshot](https://github.com/Akash7142/Forage-Accenture-Navigating-Numbers-/assets/131694327/ecb976c3-7860-4c5c-8786-3daaeda90307)
+
