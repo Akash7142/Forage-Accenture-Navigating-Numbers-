@@ -1,4 +1,4 @@
-# Forage-Accenture-Navigating-Numbers-
+# Forage-Accenture-Navigating-Numbers
 This is a Virtual internship programme in which we will be using Excel, Power Bi and Microsoft PPT for data cleaning, data analyzing, data visualization and creating data insights to answer business related questions
 
 Client Name: Social Buzz
